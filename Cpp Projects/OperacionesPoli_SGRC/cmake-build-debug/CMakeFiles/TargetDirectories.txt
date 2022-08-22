@@ -1,0 +1,3 @@
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/cmake-build-debug/CMakeFiles/OperacionesPoli_SGRC.dir
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/cmake-build-debug/CMakeFiles/edit_cache.dir

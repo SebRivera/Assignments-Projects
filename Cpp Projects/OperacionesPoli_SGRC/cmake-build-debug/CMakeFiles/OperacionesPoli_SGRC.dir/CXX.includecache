@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Polinomios.cpp
+iostream
+-
+cstdlib
+-
+cstdio
+-
+cmath
+-
+Utilerias.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Utilerias.h
+Polinomios.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Polinomios.h
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Polinomios.h
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Utilerias.cpp
+iostream
+-
+Utilerias.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Utilerias.h
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Utilerias.h
+Utilerias.tpp
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Utilerias.tpp
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Utilerias.tpp
+iostream
+-
+limits
+-
+Utilerias.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Utilerias.h
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/main.cpp
+iostream
+-
+cstdlib
+-
+Utilerias.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Utilerias.h
+Polinomios.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesPoli_SGRC/Polinomios.h
+
