@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/Cartas_SGRC/ImpresionCartas.cpp
+iostream
+-
+cstring
+-
+ImpresionCartas.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/Cartas_SGRC/ImpresionCartas.h
+Utilerias.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/Cartas_SGRC/Utilerias.h
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/Cartas_SGRC/ImpresionCartas.h
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/Cartas_SGRC/Utilerias.h
+
