@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesMatrices_SGRC/FuncionesMatrices.cpp
+iostream
+-
+cstdlib
+-
+iomanip
+-
+FuncionesMatrices.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesMatrices_SGRC/FuncionesMatrices.h
+Utilerias.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesMatrices_SGRC/Utilerias.h
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesMatrices_SGRC/FuncionesMatrices.h
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesMatrices_SGRC/Utilerias.h
+Utilerias.tpp
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesMatrices_SGRC/Utilerias.tpp
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesMatrices_SGRC/Utilerias.tpp
+iostream
+-
+limits
+-
+Utilerias.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/OperacionesMatrices_SGRC/Utilerias.h
+
