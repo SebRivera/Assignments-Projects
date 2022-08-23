@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/TiposOrdenaminetos_SGRC/MetodosOrdenamiento.h
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/TiposOrdenaminetos_SGRC/Utilerias.h
+Utilerias.tpp
+C:/Users/Sebastian Rivera/Documents/Programacion C++/TiposOrdenaminetos_SGRC/Utilerias.tpp
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/TiposOrdenaminetos_SGRC/Utilerias.tpp
+iostream
+-
+limits
+-
+Utilerias.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/TiposOrdenaminetos_SGRC/Utilerias.h
+
+C:/Users/Sebastian Rivera/Documents/Programacion C++/TiposOrdenaminetos_SGRC/main.cpp
+iostream
+-
+cstdlib
+-
+iomanip
+-
+time.h
+-
+cstdio
+-
+Utilerias.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/TiposOrdenaminetos_SGRC/Utilerias.h
+MetodosOrdenamiento.h
+C:/Users/Sebastian Rivera/Documents/Programacion C++/TiposOrdenaminetos_SGRC/MetodosOrdenamiento.h
+
