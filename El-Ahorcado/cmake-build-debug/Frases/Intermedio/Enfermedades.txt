@@ -1,0 +1,26 @@
+25 36
+Tuberculosis
+Alzheimer
+Síndrome de Down
+Resfriado Común
+Parkinson
+Bronquitis
+Hipertención Arterial
+Enfermedades de Transmición Sexual
+Desfunción Erectil
+Esquizofrenia
+Congestión Nasal
+Tifoidea
+Hipoglucemia
+Pre Diabetes
+Narcolepsia
+Osteoporosis
+Coronavirus
+Autismo Atípico
+Gangrena
+Sarampión
+Sobredosis
+Acromegalia
+Hipertensión
+Poliomelitis
+Cáncer Pulmonar

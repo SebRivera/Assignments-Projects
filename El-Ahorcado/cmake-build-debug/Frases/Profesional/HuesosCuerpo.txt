@@ -1,0 +1,26 @@
+25 23
+Cráneo
+Clavícula
+Esternón
+Omóplato
+Húmero
+Costillas
+Cúbito
+Columna Vertebral
+Radio
+Pelvis
+Fémur
+Columna Lumbar
+Maleolo Interno
+Cabeza Peroné
+Cresta Iliaca
+Manubrio del Esternón
+Mandíbula
+Condilo Interno
+Vértebras Cervicales
+Cuneifome
+Hueso Sacro
+Tabique Nesel
+Cabeza del Femúr
+Maxilar Superior
+Costillas Flotantes

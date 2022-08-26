@@ -1,0 +1,21 @@
+20 10
+Rojo
+Verde
+Amarillo
+Azul
+Café
+Naranja
+Blanco
+Negro
+Gris
+Rosa
+Morado
+Oro
+Plata
+Crema
+Turqueza
+Salmón
+Menta
+Magenta
+Coral
+Cian

@@ -1,0 +1,27 @@
+	             ¡Bienvenidos al juego de <<El ahorcado>>!
+ Instrucciones...
+
+ Después de seleccionar la opción "Jugar" se te presentará dos opciones, las cuales son las modalidades del juego. 
+
+ 1). Seleccionar el nivel: 
+ De aquí se te presentarán los tres niveles del juego, novato, intermedio y  profesional; los cuales cada uno contienen 
+ cinco categorias cuyas podrás seleccionar para empezar a jugar.
+
+ 2). Modalidad Ascendente.
+  En este modo el juego inicio en la primera dificultad seleccionando una categoria   de manera aleatoria, 
+  donde tendrás que ir encontrando las palabras para sumar puntos; estos puntos te    ayudarán a subir de 
+  nivel hasta llegar al último nivel y terminar el juego.
+
+ Una vez dentro de la pantalla de juego, utiliza las "FLECHAS" del teclado para  desplazarte a través del 
+ abecedario en pantalla y selecciona la letra deseada pulsando la tecla "ENTER" de  tu teclado.
+
+ En pantalla se te mostrarán la cantidad de vidas restantes antes de que tu amigo  sea ahorcado
+ (¡Procura cuidar a tu amigo descubriendo la palabra!). También  se te mostrará la  cantidad de carácteres que contiene la palabra;
+ al momento de seleccionar una letra correcta desde el abecedario, se descubrirá la  letra  en pantalla; 
+ sin embargo, sí la letra no es correcta, se te mostrará un error,
+ también se te restará una vida y se irá pintando a tu amigo ahorcado.
+
+ Cuando descubras la palabra, podrás seguir adivinando más palabras hasta  descubrirlas todas.
+ **En todo momento puedes salir de la pantalla de juego presionando la tecla  "ESCAPE".**
+ Una vez fuera, puedes continuar seleccionando otra categoria o modalidad. 
+ ¡Suerte y no dejes morir a tu amigo!.

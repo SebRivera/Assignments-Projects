@@ -1,0 +1,26 @@
+25 10
+Perro
+Gato
+Vaca
+Oveja
+Conejo
+Ratón
+Pato
+Gallina
+Cerdo
+Caballo
+Burro
+Venado
+Lobo
+Hormiga
+Oso
+León
+Tigre
+Serpiente
+Zorro
+Pájaro
+Tortuga
+Pulpo
+Rana
+Tiburón
+Elefante

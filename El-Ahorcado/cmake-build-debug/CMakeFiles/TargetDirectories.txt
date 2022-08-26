@@ -1,0 +1,3 @@
+C:/Users/Sebastian Rivera/Documents/Programacion C++/ElAhorcado_RAM/cmake-build-debug/CMakeFiles/ElAhorcado_RAM.dir
+C:/Users/Sebastian Rivera/Documents/Programacion C++/ElAhorcado_RAM/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sebastian Rivera/Documents/Programacion C++/ElAhorcado_RAM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

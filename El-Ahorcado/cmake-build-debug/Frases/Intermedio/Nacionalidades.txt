@@ -1,0 +1,26 @@
+25 16
+Mexicano
+Alemán
+Estadounidense
+Australiano
+Colombiano
+Canadiense
+Holandés
+Iraquí
+Italiano
+Peruano
+Tailandés
+Venezolano
+Vietnamita
+Uruguayo
+Puertorriqueño
+Polaco
+Noruego
+Irlandés
+Hondureño
+Griego
+Filipino
+Español
+Escocés
+Brasileño
+Japonés

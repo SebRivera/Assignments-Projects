@@ -1,0 +1,26 @@
+25 25
+Sierra de Mano
+Destornillador
+Cizalla
+Broca de usos múltiples
+Extractor Mecánico
+Escariador
+Martillo
+Tenazas
+Tijeras
+Tornillo de Banco
+Rotomartillo
+Esmerilador
+Regla Graduada
+Sierra Circular
+Motosierra
+Hidrolavadora
+Fresadora
+Esmeril Angular
+Llave de Impacto
+Alternador
+Probador de Corriente
+Cortadora de Azulejo
+Amoladora
+Multiherramienta
+Taladro

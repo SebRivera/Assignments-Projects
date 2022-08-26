@@ -1,0 +1,26 @@
+25 11
+Aguacate
+Manzana
+Fresa
+Higo
+Platano
+Limón
+Lima
+Mango
+Melón
+Naranja
+Pera
+Sandía
+Uva
+Coco
+Piña
+Apio
+Brócoli
+Cebolla
+Luchuga
+Pepino
+Repollo
+Tomate
+Zanahoria
+Champiñon
+Cilantro

@@ -1,0 +1,26 @@
+25 22
+Anatomía Patologica
+Alergologia
+Cardiología
+Cirugía Plastica
+Cirugía de Mama
+Cirugía Maxilofacial
+Cirugía Vascular
+Dermatología
+Endocrinología
+Gastroenterología
+Genética
+Geriatría
+Ginecología
+Hematología
+Neurocirugía
+Oftalmología
+Otorrinolaringología
+Oncología
+Pedriatría
+Proctología
+Psiquiatría
+Rehabilitación
+Reumatología
+Traumatología
+Urología
