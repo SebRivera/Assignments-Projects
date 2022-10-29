@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sebastian Rivera/Documents/Estructura de Datos/Banco_SGRC/Banco.cpp
+Banco.h
+C:/Users/Sebastian Rivera/Documents/Estructura de Datos/Banco_SGRC/Banco.h
+
+C:/Users/Sebastian Rivera/Documents/Estructura de Datos/Banco_SGRC/Banco.h
+iostream
+-
+vector
+-
+fstream
+-
+cstdlib
+-
+Persona.h
+C:/Users/Sebastian Rivera/Documents/Estructura de Datos/Banco_SGRC/Persona.h
+Cola.h
+C:/Users/Sebastian Rivera/Documents/Estructura de Datos/Banco_SGRC/Cola.h
+
+C:/Users/Sebastian Rivera/Documents/Estructura de Datos/Banco_SGRC/Cola.h
+iostream
+-
+Cola.tpp
+C:/Users/Sebastian Rivera/Documents/Estructura de Datos/Banco_SGRC/Cola.tpp
+
+C:/Users/Sebastian Rivera/Documents/Estructura de Datos/Banco_SGRC/Cola.tpp
+Cola.h
+C:/Users/Sebastian Rivera/Documents/Estructura de Datos/Banco_SGRC/Cola.h
+
+C:/Users/Sebastian Rivera/Documents/Estructura de Datos/Banco_SGRC/Persona.h
+iostream
+-
+

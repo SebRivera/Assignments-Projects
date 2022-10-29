@@ -1,0 +1,3 @@
+"C:\Users\Sebastian Rivera\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Banco_SGRC.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Banco_SGRC.dir/objects.a @CMakeFiles\Banco_SGRC.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -static -Wl,--whole-archive CMakeFiles\Banco_SGRC.dir/objects.a -Wl,--no-whole-archive -o Banco_SGRC.exe -Wl,--out-implib,libBanco_SGRC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Banco_SGRC.dir\linklibs.rsp
